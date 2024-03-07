@@ -1,4 +1,4 @@
-# SSEF-2024
+# IDEX
 Cardiovascular diseases, specifically heart attacks, have been described as a “notorious silent killer” by Health Minister Ong Ye Kung. On average, 34 people have heart attacks daily in Singapore. For some, an undiagnosed vulnerability to heart diseases could be life-costing, with only 59.3% of residents (40–74-year-old) participating in Chronic disease screenings (National Population Health Survey 2021), a drop from 66.3% in 2019.
 
 This is problematic, given 1 in 3 Singaporeans may have underlying heart diseases that remain undetected. 
